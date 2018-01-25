@@ -5,6 +5,6 @@ import (
 )
 
 var RouteMap = []*rest.Route{
-	//auth
+	rest.Get("/wxconfig", getWxConfig),
 	rest.Post("/wxconfig", getWxConfig),
 }
