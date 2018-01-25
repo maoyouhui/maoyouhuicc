@@ -1,0 +1,8 @@
+hash: 56eb14438978a3537887bab24336e5f65ced1d5c4380d4a3e8072bd5adebea9b
+updated: 2018-01-25T14:53:16.813936+08:00
+imports:
+- name: github.com/ant0ine/go-json-rest
+  version: ce4b71cdf7ba29ef443d704bd923f5bbf281ee30
+- name: gopkg.in/chanxuehong/wechat.v2
+  version: c50f7a5fc2b7d391321547f6c92c687b3065bb6f
+testImports: []

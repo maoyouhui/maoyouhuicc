@@ -1,0 +1,22 @@
+# IDE file
+.idea/
+*.iml
+
+# Config file
+.env
+
+# binary file
+myhcc
+
+# Project file
+data/
+export/
+
+
+*.zip
+
+# bak file
+*.bak
+
+
+
