@@ -10,7 +10,7 @@ run : build
 
 run-bbs : build
 
-	export RunPort=3001 && source .bbs.env && ./myhcc &(RUN_ARGS)
+	export RunPort=3001 && source .bbs.env && ./myhcc $(RUN_ARGS)
 
 stop :
 	pkill myhcc
