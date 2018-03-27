@@ -4,6 +4,7 @@
 
 # Config file
 .env
+.bbs.env
 
 # binary file
 myhcc
